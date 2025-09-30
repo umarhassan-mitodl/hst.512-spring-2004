@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/hst-512-genomic-medicine-spring-2004/835bf301e590d8af7bab88296ef484c7_hst-512s04-th.jpg
 file_size: 15985
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Illustration showing basic steps used in microarray technology. (Figure
     by OCW.)
