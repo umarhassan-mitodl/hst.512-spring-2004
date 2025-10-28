@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -43,7 +41,7 @@ Texts
 
  Brown, Terence A. _Genomes._ 2nd ed. Wiley-Liss, June 15, 2002. ISBN: 9780471250463 .
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/microarrays-integrative-genomics) Kohane, Isaac S., Alvin Kho, and Atul J. Butte. [_Microarrays for an Integrative Genomics_](https://mitpress.mit.edu/books/microarrays-integrative-genomics) _._ MIT Press, August 21, 2002. ISBN: 9780471250463 .
+{{% resource_link "d283f573-9447-45a2-8ba2-bc3c9a0743af" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kohane, Isaac S., Alvin Kho, and Atul J. Butte. {{% resource_link "d283f573-9447-45a2-8ba2-bc3c9a0743af" "_Microarrays for an Integrative Genomics_" %}} _._ MIT Press, August 21, 2002. ISBN: 9780471250463 .
 
  Dhanda, Rahul K. _Guiding Icarus: Merging Bioethics with Corporate Interests._ 1st ed. Wiley-Liss, April 5, 2002. ISBN: 9780471223801 .
 
